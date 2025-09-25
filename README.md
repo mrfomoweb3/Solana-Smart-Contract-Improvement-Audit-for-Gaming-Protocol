@@ -1,6 +1,6 @@
 # Solana-Smart-Contract-Improvement-Audit-for-Gaming-Protocol
 
-## 1. Audit Report (PDF & GitHub/GitLab Ready)
+## 1. Audit Report 
 
 **Executive Summary**\
 The Bounty FPS Win-2-Earn game uses Solana smart contracts to handle
